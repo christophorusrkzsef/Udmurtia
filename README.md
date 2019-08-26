@@ -1,3 +1,3 @@
 # Udmurtia state
 
-1
+1.
